@@ -1,0 +1,47 @@
+﻿<!-- Contact Section -->
+<section id="contact" style="background-color:#f4f4f4;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Get in Touch</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <!--<div class="row">
+            <div class="col-lg-4 col-lg-offset-2">
+                <div class="row control-group animatedParent">
+                    <div class="form-group col-xs-6 floating-label-form-group controls emailDiv animated bounceIn">
+                        <input class="form-control" type="email" placeholder="Your Email Address" id="emailContact"
+                               required data-validation-required-message="Please enter your email address.">
+                        <button class="btn btn-danger animated bounceIn" type="submit">Get a Quotation Now!</button>
+                        <p class="row help-block text-danger"></p>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        <div class="row" style="margin-left:10%;">
+            <div class="col-lg-6 col-lg-offset-2" style="margin-top: 80px;">
+                <div class="row control-group emailDiv animatedParent">
+                    <div class="animated bounceIn">
+                        <input class="" type="email" placeholder="Your Email Address" id="emailContact" style=""
+                               required data-validation-required-message="Please enter your email address.">
+                        <button class="btn btn-danger animated bounceIn" type="submit">Get a Quotation Now!</button>
+                    </div>
+                    <p class="row help-block text-danger"></p>
+                </div>
+            </div>
+        </div>
+        <!--<div class="row">
+            <div class="col-lg-6 col-lg-offset-2" style="margin-top: 80px;">
+                <div class="row control-group emailDiv">
+                    <div class="">
+                        <input class="" type="email" placeholder="Your Email Address" id="emailHead" style=""
+                               required data-validation-required-message="Please enter your email address.">
+                        <button class="btn btn-danger" type="submit" style="">Get a Quotation Now!</button>
+                        <p class="row help-block text-danger"></p>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</section>

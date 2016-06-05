@@ -1,0 +1,136 @@
+﻿<!-- About Section -->
+<section class="success" id="about" style="background-color: #69A583">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Technologies We Master</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+    </div>
+    <div class="container text-center">
+        <div class="col-md-10 col-md-offset-1 pd30-btm">
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-code fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>PHP</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-database fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Mssql/Mysql</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-2x animated bounceIn go" aria-hidden="true">JS</i>
+                    <p>JavaScript</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-html5 fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>HTML5</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-css3 fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>CSS3</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-bug fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Testing</p>
+                </span>
+            </div>
+
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-mobile fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Mobile App</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-android fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Android</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-apple fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>IOS</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-cloud fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Cloud</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-joomla fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Joomla</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-drupal fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Drupal</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-wordpress fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Wordpress</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-bitbucket fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Bitbucket</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-github fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Github</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-support fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>System Support</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-wordpress fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Linux</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-rss fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>RSS Feeds</p>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>What we Do</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            $rows$
+        </div>
+    </div>
+  
+</section>

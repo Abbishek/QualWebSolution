@@ -1,0 +1,755 @@
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <!--<a class="navbar-brand" href="#page-top">QualWeb Solutions</a>-->
+            <a class="navbar-brand" href="#page-top">Q</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top">QualWeb Solutions</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#whatwedo">What We Do</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#services">Our Services</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#portfolio">Portfolio</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#about">Technologies</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#values">Values</a>
+                </li>
+                <li class="page-scroll">
+                    <a href="#contact">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+</nav><!-- Header -->
+<header>
+    <div class="bg-cloud" data-parallax="scroll" data-image-src="Images/bg.png">
+        <div class="container">
+            <div class="row" style="margin-top:20px;">
+                <div class="col-lg-12">
+                    <div class="intro-text">
+                        <span class="name">QualWeb Solutions</span>
+                        <!--<span class="name">QualWeb Solutions</span>-->
+                        <hr class="star-primary">
+                        <span class="skills" style="margin-top:50px;">A trusted partner for all your software development needs.</span>
+                    </div>
+                </div>
+            </div>
+            <!--<div class="row" style="margin-top:120px;">
+                <div class="col-md-offset-3 col-lg-6">-->
+                    <!--<div class="row control-group input-group">
+                        <input type="text" class="form-control" id="emailId" placeholder="Your Email Address">
+                        <span class="input-group-btn">
+                            <button class="btn btn-danger" type="button" style="background-color:green;border-color:green;">Get a Quotation Now!</button>
+                        </span>
+                    </div>-->
+
+                    <!--<div class="row control-group input-group" style="text-align:center;">
+                        <div class="form-group col-xs-6 floating-label-form-group controls emailDiv">
+                            <input class="form-control" type="email" placeholder="Your Email Address" id="emailHead"
+                                   required data-validation-required-message="Please enter your email address.">
+                            <button class="btn btn-danger" type="button" style="background-color:green;border-color:green;">Get a Quotation Now!</button>
+                        </div>
+                        <div style="float:left;">
+                            <p class="row help-block text-danger"></p>
+                        </div>
+                    </div>-->
+                    
+                <!--</div>
+            </div>-->
+            <div class="row" style="margin-left:10%;">
+                <div class="col-lg-6 col-lg-offset-2" style="margin-top: 80px;">
+                    <div class="row control-group emailDiv">
+                        <div class="">
+                            <input class="" type="email" placeholder="Your Email Address" id="emailHead" style=""
+                                   required data-validation-required-message="Please enter your email address.">
+                            <button class="btn btn-danger" type="submit" style=" background-color: green; border-color: green;">Get a Quotation Now!</button>
+                        </div>
+                        <p class="row help-block text-danger"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header><!-- About Section -->
+<section class="success" id="whatwedo" style="background-color:#fff;">
+    <!-- #69A583 -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>What we Do</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row animatedParent" id="whatwedo">
+            <div class="animated bounceIn go col-lg-6"><p>We specialize in developing complex products within web and mobile domains.</p></div><div class="animated bounceIn go col-lg-6"><p><span>Do you have an IOS &amp; Android app idea? Yes, you are at the right place</span></p></div><div class="animated bounceIn go col-lg-6"><p><span>Do you require development support for an existing product? We will do it for you.</span></p></div><div class="animated bounceIn go col-lg-6"><p><span>Do you need an expert team to assist you in managing your lifecycle? Contact us right away.</span></p></div><div class="animated bounceIn go col-lg-6"><p><span>We are a perfect, cost-effective and highly skilled development partner you would ever have.</span></p></div><div class="animated bounceIn go col-lg-6"><p>Do you need System &amp; Desktop Support? We are here for you.</p></div>
+        </div>
+    </div>
+</section><!-- Portfolio Grid Section -->
+<section id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center animatedParent" id="servicespara">
+                <h2><span class="name">Our Services</span></h2>
+                <hr class="star-primary">
+                <p class="skills animated fadeInRight go">Application Development & Maintenance</p>
+                <p class="skills animated fadeInRight go">Viral Landing Page Development</p>
+                <p class="skills animated fadeInLeft go">IT Help Desk & Application Support</p>
+                <p class="skills animated fadeInRight go">Data Mining & Data Warehousing</p>
+                <p class="skills animated fadeInLeft go">Backend Architecture Development</p>
+                <p class="skills animated fadeInLeft go">System Support</p>
+                <p class="skills animated fadeInRight go">Customer Support</p>
+                <p class="skills animated fadeInRight go">Technology Consulting</p>
+
+
+                <p class="skills animated fadeInLeft go">Hybrid Mobile App Development</p>
+                <p class="skills animated fadeInRight go">Prototype Development</p>
+
+                <p class="skills animated fadeInLeft go">MVP Development</p>
+                <p class="skills animated fadeInLeft go">R&D Consulting</p>
+                <p class="skills animated fadeInRight go">a lot more ..</p>
+            </div>
+        </div>
+    </div>
+    <!--<div class="container" id="ourservices">
+        <img src="Images/phone.png" id="phone" class="img-responsive" style="float:left;" />
+        <img src="Images/computer.png" id="computer" class="img-responsive" style="float:left;" />
+        <img src="Images/tablet.png" id="tablet" style="float:left;" class="img-responsive" />
+    </div>-->
+</section>
+<!-- Portfolio Grid Section -->
+<section id="portfolio" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Portfolio</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 portfolio-item animatedParent">
+    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/Bankverve.png" class="img-responsive img-thumbnail animated fadeInUp go" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item animatedParent">
+    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/comtify.png" class="img-responsive img-thumbnail animated fadeInUp go" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item animatedParent">
+    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/msprojnclients.png" class="img-responsive img-thumbnail animated fadeInUp go" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item animatedParent">
+    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/TechVidah.png" class="img-responsive img-thumbnail animated fadeInUp go" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item animatedParent">
+    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/kautilya.png" class="img-responsive img-thumbnail animated fadeInUp go" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item animatedParent">
+    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/logotransparent1.gif" class="img-responsive img-thumbnail animated fadeInUp go" alt="">
+    </a>
+</div>
+        </div>
+    </div>
+</section>
+<div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Cinestack</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/logotransparent1.gif" class="img-responsive img-centered" alt="">
+                        <p><p>A webapp for free &amp; legal Movie download easily.&nbsp;</p></p>
+                        <!--<ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                        </ul>-->
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Kautilya- Enabling Good Governance</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/kautilya.png" class="img-responsive img-centered" alt="">
+                        <p><h2>Features</h2>
+<ul>
+<li>Portable Technology &amp; Extensible Framework</li>
+<li>Multilingual Solutions</li>
+<li>Spot billing/collection of tariffs</li>
+<li>Role based access with user friendly screens</li>
+<li>Analytical Application</li>
+<li>Communication Software</li>
+<li>Seamless integration with spot billing device</li>
+<li>License Life cycle management</li>
+<li>Bank report reconcilation</li>
+<li>Comprehensive reports</li>
+<li>Billing history details</li>
+<li>Support for backup/recovery</li>
+<li>Remote support after implementation</li>
+</ul></p>
+                        <!--<ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                        </ul>-->
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Techvidah - Creating Technology Empowered Institutions</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/TechVidah.png" class="img-responsive img-centered" alt="">
+                        <p><p><a><strong>What is TechVidah ?</strong><br /></a></p>
+<p>A TechVerve initiative , Techvidah is a educational platform designed on the cloud architecture . Techvidah is a platform for effective communication between the stakeholders .</p>
+<p><a><strong>Why TechVidah?</strong><br /></a></p>
+<p>TechVidah is a platform for the institution to create stories of each child over the years. This also provide a platform for the teachers to build a movie on their carrier .</p>
+<p>Benefits to School Management<br />- Progressive life-long development<br />- Tailor made requirement handing specific to a educational institute at no extra cost.<br />Increased web presence<br />- Launch /update your own website and communicate with parents, prospective students and alumni.<br />No Computer expertise required.<br />- Our fulltime online facilitators will manage the system , user friendly online tools help the school to manage record and communicate with parents.<br />Personality Development training sessions to for staff.</p></p>
+                        <!--<ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                        </ul>-->
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Client Specific Engagements</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/msprojnclients.png" class="img-responsive img-centered" alt="">
+                        <p><p>We have helped many clients with their applications. Few of them are listed below :</p>
+<ul>
+<li>Enshire Inc (www.enshire.com)</li>
+<li>Magicoder (www.magicoder.com)</li>
+<li>Gulf Construction Oman (www.gulfconstructionoman.com)</li>
+<li>Karnataka State Bar Council (www.ksbc.org.in)</li>
+<li>Stier Solutions (www.stiersolution.com)</li>
+<li>Oriental Experts ( www.orientalexperts.com)</li>
+<li>katerniaecowildlife (www.katerniaecowildlife.com)</li>
+<li>IEngineers (www.iengineers.in)</li>
+<li>Qualsys-Consultants (www.qualsys-consultants.in)</li>
+</ul>
+<p>&nbsp;</p></p>
+                        <!--<ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                        </ul>-->
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Comtify</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/comtify.png" class="img-responsive img-centered" alt="">
+                        <p><p>A web application to ease communication and work management in enterprises.</p>
+<p>Highly complex threading and messaging web app, with a host of features like drag-drop, dynamic updates and viral features running on a single page. We used PHP (Bonfire)-MySql with Zurb Foundation. It is currently in a closed beta.</p>
+<p>&nbsp;</p></p>
+                        <!--<ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="www.Comtify.com" target="_blank"></a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="www.Comtify.com" target="_blank"></a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="www.Comtify.com" target="_blank">Web Development</a></strong>
+                            </li>
+                        </ul>-->
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Bank Verve- Product Suite</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/Bankverve.png" class="img-responsive img-centered" alt="">
+                        <p><p>BankVerve is a comprehensive software product, developed in Partners with Techverve, focused to automate the banking processes in small to medium sized banks. The software has core banking division and doorstep banking division. The software has a very robust architecture to suit the business need of a bank. The business requirements are created as products within the application. Multi language support is available in the software. Multi branch option gives the customer to perform banking from any branch. Some of the major modules of Bankverve core are KYC module, Savings Account, Current Account, Term Loans, Fixed Deposits, Pigmy collection, Recurring Deposits, Lockers. Doorstep banking application is developed on Android platform and can be used in tablets, smartphones for banking. Some of the modules include the pigmy collection, Recurring deposits, loan collection and fixed deposit collection.</p></p>
+                        <!--<ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="" target="_blank"></a></strong>
+                            </li>
+                        </ul>-->
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><!-- About Section -->
+<section class="success" id="about" style="background-color: #f4f4f4;"> <!-- #69A583 -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Technologies We Master</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+    </div>
+    <div class="container text-center">
+        <div class="col-md-10 col-md-offset-1 pd30-btm">
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-code fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>PHP</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-database fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Mssql/Mysql</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-2x animated bounceIn go" aria-hidden="true">JS</i>
+                    <p>JavaScript</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-html5 fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>HTML5</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-css3 fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>CSS3</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-bug fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Testing</p>
+                </span>
+            </div>
+
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-mobile fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Mobile App</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-android fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Android</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-apple fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>IOS</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-cloud fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Cloud</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-joomla fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Joomla</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-drupal fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Drupal</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-wordpress fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Wordpress</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-bitbucket fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Bitbucket</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-github fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Github</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-support fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>System Support</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-wordpress fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>Linux</p>
+                </span>
+            </div>
+            <div class="col-md-2">
+                <span class="animatedParent">
+                    <i class="fa fa-rss fa-3x animated bounceIn go" aria-hidden="true"></i>
+                    <p>RSS Feeds</p>
+                </span>
+            </div>
+        </div>
+    </div>
+    <!--<div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>What we Do</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            $rows$
+        </div>
+    </div>-->
+  
+</section><!-- Portfolio Grid Section -->
+<section id="values" style="background-color: #fff; "> <!-- #E1B378 -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Our Values</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row text-center animatedParent">
+            <div class="col-lg-4 animated fadeInUp go">
+                <img class="img-circle" src="Images/care2.png" alt="Care" width="140" height="140">
+                <h3>Care</h3>
+                <p class="text-justify">Once we engage, your product is ours. We own complete <strong>end-to-end delivery</strong> including concept, design, development and rigorous quality check. We also help refine your product in the process.</p>
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4 animated fadeIn bounceIn go">
+                <img class="img-circle" src="Images/responsive.png" alt="Responsiveness" width="140" height="140">
+                <h3>Responsiveness</h3>
+                <p class="text-justify">We proactively update you about the progress of your project in <strong>real-time</strong>. We try very hard so that there are zero communication gaps. We don't miss your calls <strong>ever</strong> (and even if we do, we ensure you get a callback).</p>
+
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4 animated fadeInDown go">
+                <img class="img-circle" src="Images/overdeliver2.png" alt="overdeliver" width="140" height="140">
+                <h3>Overdelivery</h3>
+                <p class="text-justify">We go out of the way to make an extra effort which makes your product stand <strong>out of the league</strong>. You find an extra streak of intelligence in each of the product we execute so that we become a partner of your choice.</p>
+            </div><!-- /.col-lg-4 -->
+        </div>
+    </div>
+</section>
+<!-- Contact Section -->
+<section id="contact" style="background-color:#f4f4f4;">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Get in Touch</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <!--<div class="row">
+            <div class="col-lg-4 col-lg-offset-2">
+                <div class="row control-group animatedParent">
+                    <div class="form-group col-xs-6 floating-label-form-group controls emailDiv animated bounceIn">
+                        <input class="form-control" type="email" placeholder="Your Email Address" id="emailContact"
+                               required data-validation-required-message="Please enter your email address.">
+                        <button class="btn btn-danger animated bounceIn" type="submit">Get a Quotation Now!</button>
+                        <p class="row help-block text-danger"></p>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+        <div class="row" style="margin-left:10%;">
+            <div class="col-lg-6 col-lg-offset-2" style="margin-top: 80px;">
+                <div class="row control-group emailDiv animatedParent">
+                    <div class="animated bounceIn">
+                        <input class="" type="email" placeholder="Your Email Address" id="emailContact" style=""
+                               required data-validation-required-message="Please enter your email address.">
+                        <button class="btn btn-danger animated bounceIn" type="submit">Get a Quotation Now!</button>
+                    </div>
+                    <p class="row help-block text-danger"></p>
+                </div>
+            </div>
+        </div>
+        <!--<div class="row">
+            <div class="col-lg-6 col-lg-offset-2" style="margin-top: 80px;">
+                <div class="row control-group emailDiv">
+                    <div class="">
+                        <input class="" type="email" placeholder="Your Email Address" id="emailHead" style=""
+                               required data-validation-required-message="Please enter your email address.">
+                        <button class="btn btn-danger" type="submit" style="">Get a Quotation Now!</button>
+                        <p class="row help-block text-danger"></p>
+                    </div>
+                </div>
+            </div>
+        </div>-->
+    </div>
+</section>
+<!-- Footer -->
+<!--<footer class="text-center">
+    <div class="footer-above">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col col-md-4">
+                    <h3>Location</h3><p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Around the Web</h3>
+                    <ul class="list-inline">
+                        <li>
+    <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+</li><li>
+    <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-github"></i></a>
+</li><li>
+    <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+</li><li>
+    <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-instagram"></i></a>
+</li><li>
+    <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
+</li><li>
+    <a href="#" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+</li>
+                    </ul>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Freelance is a free to use, open source Bootstrap theme created by Start Bootstrap.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+					Designed By <a href="http://www.startbootstrap.com" target="_blank">Start Bootstrap</a>
+				</div>
+				<div class="col-lg-3">
+					Developed By <a href="http://www.rockhalil.com/" target="_blank">Roc Khalil</a>
+				</div>
+                <div class="col-lg-6 copyright">
+                    Copyright &copy; QualWeb Solutions
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>-->
+
+<footer class="text-center">
+    <div class="footer-above">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col col-md-4">
+                    <h3>Corporate Office</h3>
+                    <p><i class="fa fa-home fa-2x" aria-hidden="true"></i></p>
+                    <p>
+                        F-506, Amrapali Silicon City, Sector-76, Noida (U.P.), India
+                    </p>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Follow Us</h3>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://www.facebook.com/Qualweb-Solutions-1596563730657563/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/qualwebsol" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Reach us Directly</h3>
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a style="color:#fff;" href="mailto:team@qualweb.in?Subject=Interested%20in%20your%20services" target="_blank"> team@qualweb.in</a>
+                    </p>
+                    <p>
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a style="color:#fff;" href="tel:+918447363077"> +91-844-736-3077</a>
+                    </p>
+                    <p>
+                        <i class="fa fa-skype" aria-hidden="true"></i>
+                        <a style="color:#fff;" href="skype:QualWeb?chat"> Chat</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 copyright">
+                    <h6 style="font-size: 1rem; color:#cccccc;">© Qualweb Solutions Pvt. Ltd., India.</h6>
+                </div>
+                <div class="col-lg-4">
+
+                </div>
+                <div class="col-lg-4 copyright">
+                    <h6 style="font-size: 1rem; color:#cccccc;">Built with <span style="color:red;font-size: 1.5rem;">♥</span> in Asia</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

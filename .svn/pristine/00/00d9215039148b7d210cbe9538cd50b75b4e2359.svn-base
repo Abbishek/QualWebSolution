@@ -1,0 +1,42 @@
+﻿<!-- Header -->
+<header>
+    <div class="bg-cloud" data-parallax="scroll" data-image-src="Images/bg.png">
+        <div class="container">
+            <div class="row" style="margin-top:20px;">
+                <div class="col-lg-12">
+                    <div class="intro-text">
+                        <span class="name">$sitename$</span>
+                        <!--<span class="name">$sitename$</span>-->
+                        <hr class="star-primary">
+                        <span class="skills" style="margin-top:50px;">$sitedescription$</span>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="margin-top:120px;">
+                <div class="col-md-offset-3 col-lg-6">
+                    <!--<div class="row control-group input-group">
+                        <input type="text" class="form-control" id="emailId" placeholder="Your Email Address">
+                        <span class="input-group-btn">
+                            <button class="btn btn-danger" type="button" style="background-color:green;border-color:green;">Get a Quotation Now!</button>
+                        </span>
+                    </div>-->
+
+                    <div class="row control-group input-group" style="text-align:center;">
+                        <div class="form-group col-xs-6 floating-label-form-group controls emailDiv">
+                            <input class="form-control" type="email" placeholder="Your Email Address" id="emailHead"
+                                   required data-validation-required-message="Please enter your email address.">
+                        </div>
+                        <button class="btn btn-danger" type="button" style="background-color:green;border-color:green;float:left;">Get a Quotation Now!</button>
+                        <div style="float:left;">
+                            <p class="row help-block text-danger"></p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            
+
+        </div>
+    </div>
+</header>

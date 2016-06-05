@@ -1,0 +1,39 @@
+﻿<!-- Contact Section -->
+<section id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Get in Touch</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row"></div>
+        <br />
+        <br/>
+            <div class="col-lg-12 col-lg-offset-2">
+                <!--<div class="row">
+            <div class="col-md-offset-3 col-lg-6">
+                <div class="form-group col-xs-12 floating-label-form-group controls">
+                    <input type="email" class="form-control" placeholder="Your Email Address" required data-validation-required-message="Please enter your email address.">
+                    <span class="input-group-btn">
+                        <button class="btn btn-danger" type="button">Get a Quotation Now!</button>
+                    </span>
+                    <p class="help-block text-danger"></p>
+                </div>
+            </div>
+
+        </div>-->
+                <div class="row control-group animatedParent">
+                    <div class="form-group col-xs-6 floating-label-form-group controls animated bounceIn">
+                        <input class="form-control" type="email" placeholder="Your Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+                    </div>
+                    <button style="float:left;" class="btn btn-danger  animated bounceIn" type="submit">Get a Quotation Now !!</button>
+                    <div style="float:left;">
+                        <p class="row help-block text-danger"></p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>

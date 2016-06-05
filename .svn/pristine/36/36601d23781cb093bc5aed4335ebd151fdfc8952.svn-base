@@ -1,0 +1,93 @@
+﻿<!-- Footer -->
+<!--<footer class="text-center">
+    <div class="footer-above">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col col-md-4">
+                    $col1$
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Around the Web</h3>
+                    <ul class="list-inline">
+                        $socialicons$
+                    </ul>
+                </div>
+                <div class="footer-col col-md-4">
+                    $col2$
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+					Designed By <a href="http://www.startbootstrap.com" target="_blank">Start Bootstrap</a>
+				</div>
+				<div class="col-lg-3">
+					Developed By <a href="http://www.rockhalil.com/" target="_blank">Roc Khalil</a>
+				</div>
+                <div class="col-lg-6 copyright">
+                    Copyright &copy; $sitename$
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>-->
+
+<footer class="text-center">
+    <div class="footer-above">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col col-md-4">
+                    <h3>Corporate Office</h3>
+                    <p><i class="fa fa-home fa-2x" aria-hidden="true"></i></p>
+                    <p>
+                        F-506, Amrapali Silicon City, Sector-76, Noida (U.P.), India
+                    </p>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Follow Us</h3>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="https://www.facebook.com/Qualweb-Solutions-1596563730657563/" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/qualwebsol" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-col col-md-4">
+                    <h3>Reach us Directly</h3>
+                    <p>
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                        <a style="color:#fff;" href="mailto:team@qualweb.in?Subject=Interested%20in%20your%20services" target="_blank"> team@qualweb.in</a>
+                    </p>
+                    <p>
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <a style="color:#fff;" href="tel:+918447363077"> +91-844-736-3077</a>
+                    </p>
+                    <p>
+                        <i class="fa fa-skype" aria-hidden="true"></i>
+                        <a style="color:#fff;" href="skype:QualWeb?chat"> Chat</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 copyright">
+                    <h6 style="font-size: 1rem; color:#cccccc;">© Qualweb Solutions Pvt. Ltd., India.</h6>
+                </div>
+                <div class="col-lg-4">
+
+                </div>
+                <div class="col-lg-4 copyright">
+                    <h6 style="font-size: 1rem; color:#cccccc;">Built with <span style="color:red;font-size: 1.5rem;">♥</span> in Asia</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

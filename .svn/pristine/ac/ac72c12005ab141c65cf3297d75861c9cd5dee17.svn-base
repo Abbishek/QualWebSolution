@@ -1,0 +1,22 @@
+<title>QualWeb Solutions</title>
+<link rel="shortcut icon" href="Images/sb_favicon.png" type="image/x-icon">
+<link rel="icon" href="Images/sb_favicon.png" type="image/x-icon">
+
+<meta name="description" content="High quality web development firm based in India. We deliver complex web applications and backend architectures.">
+<meta name="keywords" content="web application development india, website development outsourcing, MVP development, backend architecture development, PHP, MySql, Javascript, Jquery, AngularJS">
+<meta name="author" content="QualWeb Solutions">
+
+<!--<meta property="og:url" content="http://startbootstrap.com/templates/freelancer/" />
+<meta property="og:site_name" content="Freelancer - Start Bootstrap Theme" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Freelancer - Start Bootstrap Theme" />
+<meta property="og:image" content="http://startbootstrap.com/templates/freelancer/img/profile.png" />-->
+
+<meta property="og:url" content="http://qualweb.in" />
+<meta property="og:site_name" content="Qualweb Solutions" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Qualweb Solutions" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="High quality web development firm based in India. We deliver complex web applications and backend architectures." />
+<meta property="og:description" content="Open Graph Description" />
+<meta property="fb:admins" content="Facebook Admin" />

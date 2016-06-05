@@ -1,0 +1,29 @@
+﻿<!-- Portfolio Grid Section -->
+<section id="services">
+    <!--<div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center animatedParent">
+                <h2><span class="name">Our Services</span></h2>
+                <hr class="star-primary">
+                <p class="skills animated fadeInRight go">Application Development & Maintenance</p>
+                <p class="skills animated fadeInLeft go">Hybrid Mobile App Development</p>
+                <p class="skills animated fadeInRight go">Technology Consulting</p>
+                <p class="skills animated fadeInLeft go">IT Help Desk & Application Support</p>
+                <p class="skills animated fadeInRight go">Data Mining & Data Warehousing</p>
+                <p class="skills animated fadeInLeft go">MVP Development</p>
+                <p class="skills animated fadeInRight go">Viral Landing Page Development</p>
+                <p class="skills animated fadeInLeft go">Backend Architecture Development</p>
+                <p class="skills animated fadeInRight go">Prototype Development</p>
+                <p class="skills animated fadeInLeft go">System Support</p>
+                <p class="skills animated fadeInRight go">Customer Support</p>
+                <p class="skills animated fadeInLeft go">R&D Consulting</p>
+                <p class="skills animated fadeInRight go">a lot more ..</p>
+            </div>
+        </div>
+    </div>-->
+    <div class="container" id="ourservices">
+        <img src="Images/phone.jpg" id="phone" style="height:15%;width:10%;" class="" />
+        <img src="Images/computer.png" id="computer" class="" style="height:60%;width:50%;" />
+        <img src="Images/tablet.png" id="tablet" style="height:30%;width:20%;" class="" />
+    </div>
+</section>

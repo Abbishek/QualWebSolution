@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+
+<configuration>
+    <appSettings>
+      <!--local-->
+      <add key="Localfilespath" value="C:\Users\Abhishek\Desktop\Appsolforce\QualWebSolution\"/>
+      <!--Server
+      <add key="Localfilespath" value="G:\PleskVhosts\stiersolution.com\QualWeb.in\"/>
+      -->
+      
+      <add key="MyEmail" value="abhishek@Qualweb.in"/>
+      <add key="AdminUsername" value="admin"/>
+      <add key="AdminPassword" value="0DPiKuNIrrVmD8IUCuw1hQxNqZc="/>
+    </appSettings>
+    <system.web>
+      <httpRuntime requestValidationMode="2.0"/>
+      <compilation debug="true" targetFramework="4.0" />
+    </system.web>
+
+</configuration>

@@ -1,0 +1,22 @@
+﻿<title>$sitetitle$</title>
+<link rel="shortcut icon" href="$siteicon$" type="image/x-icon">
+<link rel="icon" href="$siteicon$" type="image/x-icon">
+
+<meta name="description" content="$metadescription$">
+<meta name="keywords" content="$metakeywords$">
+<meta name="author" content="$metaauthor$">
+
+<!--<meta property="og:url" content="$ogurl$" />
+<meta property="og:site_name" content="$ogsitename$" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="$ogtitle$" />
+<meta property="og:image" content="$ogimage$" />-->
+
+<meta property="og:url" content="http://qualweb.in" />
+<meta property="og:site_name" content="Qualweb Solutions" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Qualweb Solutions" />
+<meta property="og:image" content="" />
+<meta property="og:description" content="High quality web development firm based in India. We deliver complex web applications and backend architectures." />
+<meta property="og:description" content="$ogdescription$" />
+<meta property="fb:admins" content="$fbadmins$" />
